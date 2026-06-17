@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as t,ag as n}from"./chunks/framework.CAXxHpAX.js";const E=JSON.parse('{"title":"音频","description":"","frontmatter":{},"headers":[],"relativePath":"api/audio.md","filePath":"api/audio.md"}'),h={name:"api/audio.md"};function p(l,s,e,k,d,r){return a(),t("div",null,[...s[0]||(s[0]=[n("",26)])])}const c=i(h,[["render",p]]);export{E as __pageData,c as default};

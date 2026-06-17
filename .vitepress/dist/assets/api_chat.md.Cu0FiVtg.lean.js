@@ -1,0 +1,1 @@
+import{_ as i,o as a,c as n,ag as t}from"./chunks/framework.CAXxHpAX.js";const o=JSON.parse('{"title":"聊天","description":"","frontmatter":{},"headers":[],"relativePath":"api/chat.md","filePath":"api/chat.md"}'),h={name:"api/chat.md"};function p(l,s,k,e,E,d){return a(),n("div",null,[...s[0]||(s[0]=[t("",34)])])}const g=i(h,[["render",p]]);export{o as __pageData,g as default};
