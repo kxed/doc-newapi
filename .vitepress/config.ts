@@ -50,6 +50,7 @@ export default defineConfig({
           { text: '补全', link: '/api/completions' },
           { text: '图像', link: '/api/images' },
           { text: '音频', link: '/api/audio' },
+          { text: '音乐生成 (Suno)', link: '/api/suno' },
           { text: '嵌入', link: '/api/embeddings' },
           { text: '重排序', link: '/api/rerank' },
           { text: '审查', link: '/api/moderation' },
